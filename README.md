@@ -1,0 +1,1 @@
+Stat Maker is a tool for developers to create units based on difficulty presets. It randomly generates numbers based on preset that is best suited for difficulty of the unity. This tool also allows manual adjustment of the unit or boss if certain traits are required. This tool will perform bounded generation for health, damage, range, speed based on preset. 
