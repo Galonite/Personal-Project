@@ -32,7 +32,7 @@ public class Unit{
         if(health < 0){
             this.health = 0;
         }
-        this.damage = changeHP;
+        this.health = changeHP;
     }
 
     public double getSpeed(){
