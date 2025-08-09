@@ -62,9 +62,13 @@ public class StatMaker {
                 repeatAction = scnr.nextLine().toUpperCase();
                 
                 if(repeatAction.charAt(0) == 'Y'){
+                    System.out.println("Damage: ");
                     int damage = scnr.nextInt();
+                    System.out.println("Health: ");
                     int health = scnr.nextInt();
+                    System.out.println("Speed: ");
                     double speed = scnr.nextDouble();
+                    System.out.println("Range: ");
                     double range = scnr.nextDouble();
                 }
             }
